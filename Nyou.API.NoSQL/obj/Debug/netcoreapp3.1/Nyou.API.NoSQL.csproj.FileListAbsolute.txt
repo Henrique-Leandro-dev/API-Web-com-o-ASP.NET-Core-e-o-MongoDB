@@ -1,0 +1,10 @@
+C:\Users\DELL\Documents\SENAI\NoSQl\Nyou.API.NoSQL\Nyou.API.NoSQL\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DELL\Documents\SENAI\NoSQl\Nyou.API.NoSQL\Nyou.API.NoSQL\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DELL\Documents\SENAI\NoSQl\Nyou.API.NoSQL\Nyou.API.NoSQL\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\DELL\Documents\SENAI\NoSQl\Nyou.API.NoSQL\Nyou.API.NoSQL\bin\Debug\netcoreapp3.1\Nyou.API.NoSQL.exe
+C:\Users\DELL\Documents\SENAI\NoSQl\Nyou.API.NoSQL\Nyou.API.NoSQL\obj\Debug\netcoreapp3.1\Nyou.API.NoSQL.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\SENAI\NoSQl\Nyou.API.NoSQL\Nyou.API.NoSQL\obj\Debug\netcoreapp3.1\Nyou.API.NoSQL.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\SENAI\NoSQl\Nyou.API.NoSQL\Nyou.API.NoSQL\obj\Debug\netcoreapp3.1\Nyou.API.NoSQL.AssemblyInfo.cs
+C:\Users\DELL\Documents\SENAI\NoSQl\Nyou.API.NoSQL\Nyou.API.NoSQL\obj\Debug\netcoreapp3.1\Nyou.API.NoSQL.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Documents\SENAI\NoSQl\Nyou.API.NoSQL\Nyou.API.NoSQL\obj\Debug\netcoreapp3.1\staticwebassets\Nyou.API.NoSQL.StaticWebAssets.Manifest.cache
+C:\Users\DELL\Documents\SENAI\NoSQl\Nyou.API.NoSQL\Nyou.API.NoSQL\obj\Debug\netcoreapp3.1\staticwebassets\Nyou.API.NoSQL.StaticWebAssets.xml
